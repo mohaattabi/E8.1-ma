@@ -1,0 +1,208 @@
+body {
+
+   background: white; /* light green */
+
+   color: #262626;
+
+   font-family: Arial, san-serif;
+   top:1000;
+
+}
+#contact-form {
+
+   background-color:#FAAC58;
+
+   width: 465px;
+
+   padding: 20px;
+
+   margin: 100px auto;
+
+   border-radius: 15px;
+
+   -moz-border-radius: 15px;
+
+   -webkit-border-radius: 15px;
+
+}
+
+#contact-form input,
+
+#contact-form select,
+
+#contact-form textarea,
+
+#contact-form label {
+
+   font-size: 15px;
+
+   margin-bottom: 2px;
+
+   font-family: Arial, san-serif;
+
+}
+
+#contact-form input,
+
+#contact-form select,
+
+#contact-form textarea {
+
+   width: 450px;
+
+   background: #fff;
+
+   border: 0;
+
+   -moz-border-radius: 5px;
+
+   -webkit-border-radius: 5px;
+
+   border-radius: 5px;
+
+   margin-bottom: 25px;
+
+   padding: 5px;
+
+}
+
+#contact-form input:focus,
+
+#contact-form select:focus,
+
+#contact-form textarea:focus {
+
+   background-color: #E5E6E7;
+
+}
+
+#contact-form textarea {
+
+   height: 150px;
+
+}
+
+#contact-form #submit {
+
+   width: 450px;
+
+   color: white;
+
+   border: none;
+
+   background-color: #FAAC58;
+
+}
+
+#contact-form #submit:hover {
+
+   background-color: #BFD7C1;
+
+   color: #04B404;
+
+}
+
+input:required, textarea:required {
+
+   box-shadow: none;
+
+   -moz-box-shadow: none;
+
+   -webkit-box-shadow: none;
+
+   -o-box-shadow: none;
+
+}
+
+#contact-form .required {
+
+   font-weight:bold;
+
+   color: #E5E6E7;
+
+}
+#failure, #success {
+
+   color: #FAAC58;
+
+   display:none;
+
+}
+
+.titulo{
+
+   text-align: center;
+   margin: 20px auto;
+   font-size: 23px;
+   font-family: caviar;
+
+}
+
+@font-face {
+	font-family: caviar;
+	src: url(../font/CaviarDreams.ttf);
+}
+
+.facebook {
+	position: absolute;
+	margin-left: 45%;
+	width: 50px;
+	height: 50px;
+	background: url(../images/fs1.png) center;
+	background-repeat: no-repeat;
+   top: 0;
+}
+.twiter{
+	position: absolute;
+	margin-left: 42%;
+	width: 50px;
+	height: 50px;
+	background: url(../images/twit1.png) center;
+	background-repeat: no-repeat;
+   top:0;
+}
+
+.instagram{
+	position: absolute;
+	margin-left: 40%;
+	width: 20px;
+	height: 20px;
+	background: url(../images/insta1.png) center;
+	background-repeat: no-repeat;
+   top:15;
+}
+
+.encabezado{
+
+   margin-left: 1090px;
+position:absolute;;
+width: auto;
+height: auto;
+
+text-align: left;;
+
+font-size: 13px;
+font-family: caviar;
+color: black;
+}
+
+hr{
+   height:0.5px;
+
+   background-color: #BDBDBD;
+   border:none;
+}
+
+.encabezado{
+
+   margin-left: 1090px;
+position:absolute;;
+width: auto;
+height: auto;
+
+text-align: left;;
+
+font-size: 13px;
+font-family: caviar;
+color: black;
+}

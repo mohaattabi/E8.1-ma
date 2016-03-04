@@ -1,0 +1,1076 @@
+.productos{
+     margin: -8px;
+
+position: absolute;
+     width: 100%;
+     height: 90%;
+
+}
+.texto {
+ position: absolute;
+     top: 30%;
+     text-align: center;
+     width: 100%;
+     font-family: gravity;
+     font-size: 40px;
+     color:#000000;
+}
+.texto1 {
+ position: absolute;
+     top: 100%;
+     text-align: center;
+     width: 100%;
+     font-family: caviar;
+     font-size: 7px;
+     color: #000000;
+}
+
+.flores2 {
+
+     background: url(../images/7.jpg) center;
+    width: 100%;
+    height: 90%;
+}
+
+@font-face {
+	font-family: gravity;
+	src: url(../font/KGDefyingGravity.ttf);
+}
+@font-face {
+	font-family: caviar;
+	src: url(../font/CaviarDreams.ttf);
+}
+@font-face {
+	font-family: ribons;
+	src: url(../font/Ribbons-and-banners.ttf);
+}
+@font-face {
+	font-family: fontlero;
+	src: url(../font/FONTLERO.TTF);
+}
+
+FONTLERO.TTF
+
+ul {
+	position: absolute;
+}
+
+ul#sliding-navigation
+{
+    list-style: none;
+    font-size: .75em;
+    margin: 30px 0;
+}
+
+ul#sliding-navigation li.sliding-element h3,
+ul#sliding-navigation li.sliding-element a
+{
+    display: block;
+    width: 150px;
+    padding: 5px 15px;
+    margin: 0;
+    margin-bottom: 5px;
+		border-top-right-radius: 100px;
+		border-bottom-right-radius: 100px;
+}
+
+ul#sliding-navigation li.sliding-element h3
+{
+    color: #000;
+    background: #FBEFF2;
+    border: 1px solid #FBEFF2;
+    font-weight: normal;
+		font-family: caviar;
+		text-align: center;
+}
+
+ul#sliding-navigation li.sliding-element a
+{
+    color: #000;
+		text-align: center;
+    background: #A9F5F2;
+    border: 1px solid #FBEFF2;
+    text-decoration: none;
+		font-family: caviar;
+}
+
+ul#sliding-navigation li.sliding-element a:hover { color: green; }
+
+
+
+
+
+
+
+
+#ramos{
+	margin-top:  auto;
+margin-left: 450;
+	position: absolute;
+	width: auto;
+	height: auto;
+	top:800;
+ text-align: center;
+ font-size: 30px;
+ font-family: caviar;
+ color: #F5D0A9;
+}
+
+
+
+
+
+.primaveral{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1000;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.primaveral2{
+	background: url(../images/8.jpg) center;
+ width: 300px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+
+
+
+.naranja{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1000;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.naranja2{
+	margin-left: 350;
+	background: url(../images/9.jpg) center;
+ width: 295px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.amarilla{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1000;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.amarilla2{
+	margin-left: 680;
+	background: url(../images/10.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+.rosas{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1000;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.rosas2{
+	margin-left: 1020;
+	background: url(../images/11.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+
+.textprimaveral{
+	margin-top: auto;;
+	margin-left: 75;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1310;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+.textnaranja{
+	margin-top: auto;;
+	margin-left: 400;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1310;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+
+.textamarilla{
+	margin-top: auto;;
+	margin-left: 740;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1310;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+
+.textrosas{
+	margin-top: auto;;
+	margin-left: 1090;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1310;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+
+
+
+.precioprimaveral{
+	margin-top: auto;;
+	margin-left: 115;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1350;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+.precionaranja{
+	margin-top: auto;;
+	margin-left: 450;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1350;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+
+.precioamarilla{
+	margin-top: auto;;
+	margin-left: 800;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1350;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+.precioamarilla1{
+	margin-top: auto;;
+	margin-left: 1150;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1350;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+
+#plantas{
+	margin-top:  auto;
+margin-left: 500;
+	position: absolute;
+	width: auto;
+	height: auto;
+	top:1480;
+ text-align: center;
+ font-size: 30px;
+ font-family: caviar;
+ color: #F5D0A9;
+}
+
+
+
+.yucca{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1650;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.yucca2{
+	background: url(../images/12.jpg) center;
+ width: 300px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.spati{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1650;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.spati2{
+	margin-left: 350;
+	background: url(../images/13.jpg) center;
+ width: 295px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.croton{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1650;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.croton2{
+	margin-left: 680;
+	background: url(../images/14.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+.gruzmania{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1650;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.gruzmania2{
+	margin-left: 1020;
+	background: url(../images/15.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+.textyucca{
+	margin-top: auto;;
+	margin-left: 75;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1970;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+.textspati{
+	margin-top: auto;;
+	margin-left: 370;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1970;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+.textcroton{
+	margin-top: auto;;
+	margin-left: 760;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1970;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+.textgruzmania{
+	margin-top: auto;;
+	margin-left: 1095;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:1970;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+
+.precioyucca{
+	margin-top: auto;;
+	margin-left: 115;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2005;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.preciospati{
+	margin-top: auto;;
+	margin-left: 450;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2005;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.precioscroton{
+	margin-top: auto;;
+	margin-left: 800;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2005;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.preciosgruzmania{
+	margin-top: auto;;
+	margin-left: 1150;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2005;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+
+#bonsais{
+	margin-top:  auto;
+margin-left: 600;
+	position: absolute;
+	width: auto;
+	height: auto;
+	top:2100;
+ text-align: center;
+ font-size: 30px;
+ font-family: caviar;
+ color: #F5D0A9;
+}
+
+
+.olea{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2270;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.olea2{
+	background: url(../images/16.jpg) center;
+ width: 300px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.zelkova{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2270;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.zelkova2{
+	margin-left: 350;
+	background: url(../images/17.jpg) center;
+ width: 295px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.zant{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2270;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.zant2{
+	margin-left: 680;
+	background: url(../images/18.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+.ficus{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2270;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.ficus2{
+	margin-left: 1020;
+	background: url(../images/19.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+
+.textoolea{
+	margin-top: auto;;
+	margin-left: 75;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2590;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+.textozelkova{
+	margin-top: auto;;
+	margin-left: 410;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2590;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+.textozant{
+	margin-top: auto;;
+	margin-left: 710;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2590;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+.textoficus{
+	margin-top: auto;;
+	margin-left: 1075;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top: 2590;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+
+.precioolea{
+	margin-top: auto;;
+	margin-left: 115;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2625;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.preciozelkova{
+	margin-top: auto;;
+	margin-left: 458;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2625;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.preciozant{
+	margin-top: auto;;
+	margin-left: 790;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2625;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.precioficus{
+	margin-top: auto;;
+	margin-left: 1150;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2625;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+
+
+
+
+#complementos{
+	margin-top:  auto;
+margin-left: 550;
+	position: absolute;
+	width: auto;
+	height: auto;
+	top:2750;
+ text-align: center;
+ font-size: 30px;
+ font-family: caviar;
+ color: #F5D0A9;
+}
+
+
+.tierra{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2920;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.tierra2{
+	background: url(../images/20.jpg) center;
+ width: 300px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.jardinera{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2920;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.jardinera2{
+	margin-left: 350;
+	background: url(../images/21.jpg) center;
+ width: 295px;
+ height: 300px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+.vigo{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top: 2920;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.vigo2{
+	margin-left: 680;
+	background: url(../images/22.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+.abono{
+	margin-top: auto;;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:2920;
+ text-align: left;;
+
+ font-size: 20px;
+ font-family: ribons;
+ color: #FAFAFA;
+}
+.abono2{
+	margin-left: 1020;
+	background: url(../images/23.jpg) center;
+ width: 295px;
+ height: 295px;
+ box-shadow: 0px 0px 5px 1px #777;
+	border: 1px solir black
+}
+
+
+
+
+
+.textotierra{
+	margin-top: auto;;
+	margin-left: 75;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3245;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+.textojardinera{
+	margin-top: auto;;
+	margin-left: 385;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3245;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+.textovigo{
+	margin-top: auto;;
+	margin-left: 730;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3245;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+
+.textoabono{
+	margin-top: auto;;
+	margin-left: 1075;
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top: 3245;
+ text-align: left;;
+
+ font-size: 13px;
+ font-family: caviar;
+ color: black;
+}
+
+
+.preciotierra{
+	margin-top: auto;;
+	margin-left: 105;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3285;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.preciojardinera{
+	margin-top: auto;;
+	margin-left: 460;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3285;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.preciovigo{
+	margin-top: auto;;
+	margin-left: 799;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3285;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+.precioabono{
+	margin-top: auto;;
+	margin-left: 1150;
+
+	position:absolute;;
+	width: auto;
+	height: auto;
+	top:3285;
+ text-align: left;;
+
+ font-size: 12px;
+ font-family: caviar;
+ color: #A4A4A4;
+}
+
+
+
+
+
+.encabezado{
+
+  	margin-top: 1010px;
+		margin-left: 1090px;
+  	position:absolute;;
+  	width: auto;
+  	height: auto;
+  	top:2390;
+   text-align: left;;
+
+   font-size: 13px;
+   font-family: caviar;
+   color: black;
+
+}
+
+hr {
+  height:0.5px;
+	   background-color: #BDBDBD;
+     border:none;
+
+}
